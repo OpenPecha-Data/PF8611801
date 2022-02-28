@@ -1,0 +1,22 @@
+id: PF8611801
+initial_creation_type: input
+source_metadata:
+  title: Gyalse Tokme Zangpo
+  language: pt
+  description: 'Texts by the famous Kadampa master Gyalse Tokme Zangpo (rgyal sras
+    thogs med bzang po, 1297–1371) or Ngulchu Tokme (dngul chu thogs med):'
+  volume:
+    252da405489846d48667b16684f2734b:
+      title: An Aspiration Prayer
+      parent: Aspiration Prayers
+    f0de4f4a1c8b40ff9aea4927de2de840:
+      title: Commentary on the Seven Points
+      parent: Mind Training
+    99818fc8e88d4702b4c395a18a999422:
+      title: How to Transform Sickness and Other Circumstances
+      parent: Mind Training
+    265b863a2d9d4666acf579965b9778d6:
+      title: The Thirty-Seven Practices of All the Bodhisattvas
+      parent: Mind Training
+created_at: '2022-02-28T23:28:53.429782'
+last_modified_at: '2022-02-28T23:28:53.429784'
